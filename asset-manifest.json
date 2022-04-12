@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-ramadan/static/css/main.c36d1fa9.css",
+    "main.css": "/react-ramadan/static/css/main.b71870d3.css",
     "main.js": "/react-ramadan/static/js/main.e407bb1d.js",
     "static/media/ramadan-01.jpg": "/react-ramadan/static/media/ramadan-01.2c4346cbc21d86149ab4.jpg",
     "static/media/ramadan-03.jpg": "/react-ramadan/static/media/ramadan-03.79ff35fccf7da76c92f3.jpg",
@@ -8,11 +8,11 @@
     "static/media/ramadan-02.jpg": "/react-ramadan/static/media/ramadan-02.d4fd64fffc08752fb1ef.jpg",
     "static/media/ramadan-06.jpg": "/react-ramadan/static/media/ramadan-06.85ab7586cf8ced3d162d.jpg",
     "index.html": "/react-ramadan/index.html",
-    "main.c36d1fa9.css.map": "/react-ramadan/static/css/main.c36d1fa9.css.map",
+    "main.b71870d3.css.map": "/react-ramadan/static/css/main.b71870d3.css.map",
     "main.e407bb1d.js.map": "/react-ramadan/static/js/main.e407bb1d.js.map"
   },
   "entrypoints": [
-    "static/css/main.c36d1fa9.css",
+    "static/css/main.b71870d3.css",
     "static/js/main.e407bb1d.js"
   ]
 }
