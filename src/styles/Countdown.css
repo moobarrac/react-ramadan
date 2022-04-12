@@ -1,0 +1,40 @@
+.counting{
+  display: flex;
+  height: 100vh;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.counting .time-countdown{
+  width: 40rem;
+  border-radius: 50%;
+  height: 40rem;
+  background-color: #1A237E;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #FFCA28;
+  border: 2px dotted #FFCA28;
+}
+.counting .time-countdown h2{
+  font-size: 5rem;
+}
+.counting .time-countdown p{
+  color: #78909C;
+  font-size: 2.6rem;
+}
+.back{
+  position: absolute;
+  top: 20px;
+  left: 10px;
+  color: #ffc928;
+  font-weight: 800;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.back p{
+  font-size: 4rem;
+}

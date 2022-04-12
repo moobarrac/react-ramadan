@@ -1,0 +1,117 @@
+.loading{
+  font-size: 4rem;
+}
+.home{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  top: 9%;
+  position: absolute;
+  color: #FFCA28;
+}
+.home .heading{
+  margin-bottom: 5rem;
+  background-color: #1A237E;
+  padding: 2rem 4rem;
+  border-radius: 3rem;
+}
+.home .heading h2 {
+  font-size: 3rem;
+  font-style: italic;
+}
+.home .container {
+  width: 70%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.home form.city {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  flex: 1 1 35rem;
+}
+.home .city label {
+  width: 80%;
+  font-size: 2rem;
+  font-weight: 700;
+  font-style: italic;
+  color: #1A237E;
+  background-color: #78909C;
+  padding: 2rem;
+  border-radius: 2rem;
+  text-align: right;
+}
+.home .city input{
+  width: 80%;
+  height: 50px;
+  line-height: 50px;
+  padding: 2rem;
+  color: #FFCA28;
+  font-size: 2rem;
+  font-weight: 700;
+  background-color: #1A237E;
+  border-radius: 2rem;
+}
+.home .city button{
+  width: max-content;
+  color: black;
+  padding: 1.5rem 3rem;
+  border-radius: 2rem;
+  font-size: 2.5rem;
+  background-color: #1A237E;
+}
+
+.home .box-container {
+  flex: 1 1 35rem;
+  margin-top: 2rem;
+  padding: 0 5rem;
+}
+.home .box-container .boxs{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+.home .box-container .boxs .box{
+  background-color: #1A237E;
+  flex: 1 1 11rem;
+  padding: 1rem 0;
+  border-radius: 2rem;
+  border: 2px solid #78909C;
+  box-shadow: 5px 10px 15px black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.home .box-container .boxs .box p{
+  font-size: 2rem;
+  text-transform: capitalize;
+}
+.home .box-container .boxs .box h4{
+  font-size: 2.6rem;
+  font-style: italic;
+  font-weight: 800;
+}
+.home .quote-container{
+  width: 100%;
+  background-color: #78909C;
+  color: #1A237E;
+  font-size: 2.4rem;
+  font-weight: 700;
+  padding: 3rem;
+  border-radius: 3rem;
+  margin-bottom: 1rem;
+}
+.home .countdown button{
+  background-color: #1A237E;
+  height: 10rem;
+  width: 10rem;
+  border-radius: 50%;
+  cursor: pointer;
+  color: #FFCA28;
+  font-weight: 700;
+}
